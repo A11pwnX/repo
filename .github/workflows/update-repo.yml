@@ -31,7 +31,7 @@ jobs:
       - name: Generate Packages index
         run: |
           dpkg-scanpackages -m debs /dev/null > Packages
-          gzip -9 -n -f Packages
+          gzip -9 -n -k -f Packages
 
       - name: Generate Release file
         run: |
