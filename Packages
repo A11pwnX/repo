@@ -1,0 +1,33 @@
+Package: com.a11pwnx.dylibinjectorgui
+Version: 2.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: A11pwnX
+Installed-Size: 180
+Depends: firmware (>= 16.0)
+Filename: debs/com.a11pwnx.dylibinjectorgui_2.0.0-2+debug_iphoneos-arm64.deb
+Size: 18400
+MD5sum: 35ccddc6e0d07911f82386645ce84d96
+SHA1: ef78ec8d9e57a1f54906b07c1380dc9861c3827d
+SHA256: 2d82bb97652392a710ec999f5b42f6029159edbb07d50b557d815a52ca91e192
+Section: Tweaks
+Description: An ellekit based dylib injector
+Author: A11pwnX
+Name: Dylib Injector GUI
+
+Package: com.a11pwnx.letmescreenshot
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: A11pwnX
+Installed-Size: 76
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.a11pwnx.letmescreenshot_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 7202
+MD5sum: 6812b9fc4b5b7da2312fd5c1fb241577
+SHA1: eab51b7e2c24167954ea019690018dd758055cd1
+SHA256: 85df7304cfbdaf9d953ce719e8da6ab3a7574d001d97a198f27010c7ef00b52b
+Section: Tweaks
+Homepage: https://example.com
+Description: Double-tap Volume Down within 1 second to take a screenshot and save it straight to Photos. Hooks into SpringBoard only, no code is injected into any third-party app.
+Author: A11pwnX
+Name: LetMeScreenShot
+
