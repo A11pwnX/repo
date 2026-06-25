@@ -6,10 +6,10 @@ Version: 1.0
 Architectures: iphoneos-arm iphoneos-arm64
 Components: main
 Description: Repository for my iOS tweaks
-Date: Thu, 25 Jun 2026 08:49:48 +0000
+Date: Thu, 25 Jun 2026 09:23:14 +0000
 MD5Sum:
- 0c33281a6f1296f198db1897f89e82f6                0 
- a3854d887ac9c9a19100600f92cb425e                0 
+                 0 Packages
+ af4d794995267c5dd714d88aa0ab24e4              479 Packages.gz
 SHA256:
- d7d4a6f7028158091ced612da7e2c32fe1904425835e846cdee995ae0198e88e                0 
- fb7c393c89c83a682a490bd0e042442ea9db112a6fb8ecfe0ad5140a7cc421ff                0 
+                 0 Packages
+ 8c38f3a35466e649070076e30d013d1ce60b6ef7d0906d19e59668f516043988              479 Packages.gz
