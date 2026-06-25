@@ -60,4 +60,6 @@ jobs:
           fi
 
           git commit -m "Update APT metadata"
-          git push
+
+          git pull --rebase origin main
+          git push origin HEAD:main
