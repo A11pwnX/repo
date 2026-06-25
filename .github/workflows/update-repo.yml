@@ -32,8 +32,8 @@ jobs:
       - name: Generate Release file
         run: |
           {
-            echo "Origin: Mon Repo"
-            echo "Label: Mon Repo"
+            echo "Origin: A11pwnx repo"
+            echo "Label: A11pwnx repo"
             echo "Suite: stable"
             echo "Codename: ios"
             echo "Version: 1.0"
